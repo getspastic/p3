@@ -28,3 +28,22 @@
 	font-size: 180%;
 	font-weight:lighter;
 }
+.new_font h4 {
+	font-size: 180%;
+	font-weight:lighter;
+}
+.press h1, .new_font h2, .new_font h3, .new_font h4, .new_font h5, .new_font h6 {
+	color: #5f5a5e;
+	font-family: 'Quicksand', sans-serif;
+}
+}
+
+.press h1 {
+	font-size: 320%;
+	text-align:center;
+}
+
+.press h2 {
+	font-size: 260%;
+	text-align:center;
+}
