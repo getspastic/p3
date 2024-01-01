@@ -32,10 +32,17 @@
 	font-size: 180%;
 	font-weight:lighter;
 }
+.press {
+	font-size: 100%;
+	line-height: 1.5em;
+	color: #5f5a5e;
+	font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
 .press h1, .new_font h2, .new_font h3, .new_font h4, .new_font h5, .new_font h6 {
 	color: #5f5a5e;
 	font-family: 'Quicksand', sans-serif;
-}
+
 }
 
 .press h1 {
