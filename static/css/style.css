@@ -9,7 +9,7 @@ body {
   font-family: Arial, Tahoma, Serif;
   color: #263238;
 }
-av {
+nav {
   display: flex; /* 1 */
   justify-content: space-between; /* 2 */
   padding: 1rem 2rem; /* 3 */
