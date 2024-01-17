@@ -67,10 +67,17 @@ body {
 .press p { 
 padding: 3 px;
 }
+nav {
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #ddd;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    justify-content: start;
 }
 
 nav ul li {
@@ -83,10 +90,16 @@ nav a {
     text-decoration: none;
     color: black;
     background-color: white;
+    margin: 5px;
+}
+
+.home-link {
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 nav ul ul {
-    
+    display: none;
     position: absolute;
     top: 100%;
 }
@@ -96,7 +109,6 @@ nav ul li:hover > ul {
 }
 
 nav ul ul li {
-	display: none;
     float: none;
 }
 
@@ -104,4 +116,9 @@ nav ul ul ul {
     left: 100%;
     top: 0;
 }
+
+nav ul li:hover > a, nav ul ul li:hover > a {
+    background-color: #ddd;
+}
+
 
