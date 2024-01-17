@@ -9,6 +9,10 @@ body {
   font-family: Arial, Tahoma, Serif;
   color: #263238;
 }
+.mainbody {
+	margin: auto;
+	padding: 10%; 
+}
 
 .new_font {
 	font-size: 100%;
