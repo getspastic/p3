@@ -64,6 +64,9 @@ body {
 	font-size: 260%;
 	text-align:center;
 }
+.press p { 
+padding: 3 px;
+}
 nav ul {
     list-style: none;
     padding: 0;
