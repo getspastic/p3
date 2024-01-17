@@ -86,7 +86,7 @@ nav a {
 }
 
 nav ul ul {
-    display: none;
+    
     position: absolute;
     top: 100%;
 }
@@ -96,6 +96,7 @@ nav ul li:hover > ul {
 }
 
 nav ul ul li {
+	display: none;
     float: none;
 }
 
