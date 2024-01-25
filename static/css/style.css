@@ -129,5 +129,10 @@ nav ul ul ul {
 nav ul li:hover > a, nav ul ul li:hover > a {
     background-color: #ddd;
 }
+.internalNotes {
+	vertical-align: super;
+	text-align: right;
+	font-size: .83em;
+}
 
 
