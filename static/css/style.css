@@ -13,6 +13,8 @@
 body {
   font-family: Arial, Tahoma, Serif;
   color: #263238;
+	  margin: 3em;
+
 }
 .mainbody {
 	margin: auto;
@@ -134,9 +136,7 @@ nav ul li:hover > a, nav ul ul li:hover > a {
 	text-align: right;
 	font-size: .83em;
 }
-body {
-  margin: 3em;
-}
+
 .card:hover {
   transform: scale(1.1);
 }
