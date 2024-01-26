@@ -22,7 +22,9 @@ display: flex;
 
 }
 .u-block {
-    display: inline-flex;
+    display: flex;
+		padding: 3%; 
+
 }
 .mainbody {
 	margin: auto;
