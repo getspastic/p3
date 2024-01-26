@@ -17,11 +17,11 @@ body {
 
 }
  .main {
-display:flex;
+display: flex;
 
 
 }
-.u-block u{
+.u-block {
     display: inline-flex;
 }
 .mainbody {
