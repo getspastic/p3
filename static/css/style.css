@@ -16,6 +16,14 @@ body {
 	  margin: 3em;
 
 }
+ .main {
+display:flex;
+
+
+}
+.u-block u{
+    display: inline-flex;
+}
 .mainbody {
 	margin: auto;
 	padding: 3%; 
