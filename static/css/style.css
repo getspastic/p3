@@ -155,7 +155,7 @@ nav ul li:hover > a, nav ul ul li:hover > a {
 }
 .videoWrapper {
   position: relative;
-  padding-bottom: 75%; /* 4:3 */
+  padding-bottom:25%; /* 4:3 */
   height: 0;
 }
 .videoWrapper iframe {
