@@ -167,5 +167,8 @@ nav ul li:hover > a, nav ul ul li:hover > a {
 }
 
 .frantest {
+	width: 100%;
+  height: auto;
+
   aspect-ratio: 1 / 1; /* ⏹ a perfect square */
 }
